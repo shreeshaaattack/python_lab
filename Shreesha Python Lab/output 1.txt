@@ -1,0 +1,25 @@
+OUTPUT:
+Enter the value for x:78
+Enter the value for y:908
+
+Equation Assignment Operators:
+True
+True
+True
+True
+
+Bitwise Operator Demonstration:
+True
+True
+True
+True
+
+Addition using Bitwise Operators:
+True
+True
+
+Subtraction using Bitwise Operators:
+True
+True
+True
+True

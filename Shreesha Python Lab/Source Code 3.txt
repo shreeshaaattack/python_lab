@@ -1,0 +1,37 @@
+Source Code
+s = input("Enter a string: ")
+
+print("\nOriginal String:", s)
+
+print("Length of string:", len(s))
+
+print("Uppercase:", s.upper())
+print("Lowercase:", s.lower())
+print("Title Case:", s.title())
+print("Swap Case:", s.swapcase())
+
+print("First character:", s[0])
+print("Last character:", s[-1])
+
+print("First 3 characters:", s[:3])
+print("Last 3 characters:", s[-3:])
+
+print("Reversed string:", s[::-1])
+
+s2 = input("\nEnter another string: ")
+print("Concatenated string:", s + " " + s2)
+
+word = input("\nEnter a word to search: ")
+print("Position of word:", s.find(word))
+
+old = input("\nEnter word to replace: ")
+new = input("Enter new word: ")
+print("After replacement:", s.replace(old, new))
+
+print("Split string:", s.split())
+
+print("Is Alphabetic:", s.isalpha())
+print("Is Numeric:", s.isdigit())
+print("Is Alphanumeric:", s.isalnum())
+print("Is Lowercase:", s.islower())
+print("Is Uppercase:", s.isupper())

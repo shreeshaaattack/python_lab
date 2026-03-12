@@ -1,0 +1,17 @@
+Aim :
+Write a program to demonstrate list & related functions in python.
+
+Algorithm
+Start the program.
+Create a list by taking elements from the user.
+Display the original list.
+Add an element to the list using the append() function.
+Insert an element at a specific position using the insert() function.
+Remove an element from the list using the remove() function.
+Display the length of the list using the len() function.
+Sort the list using the sort() function.
+Reverse the list using the reverse() function.
+Find the index of a particular element using the index() function.
+Count the occurrences of an element using the count() function.
+Display the final list after all operations.
+Stop the program.

@@ -1,0 +1,15 @@
+Aim: 
+ Write a program to implement various string operations.
+
+ Algorithm
+Start the program.
+Input a string from the user.
+Display the length of the string.
+Convert the string to uppercase and display it.
+Convert the string to lowercase and display it.
+Display the first character and last character of the string.
+Reverse the string and display it.
+Check whether a substring exists in the string.
+Concatenate the string with another string.
+Display all the results.
+Stop the program.

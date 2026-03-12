@@ -1,0 +1,19 @@
+Output
+First Keyword: cricket
+Last Keyword: Development
+
+After append: ['cricket', 'Popularity', 'Influence', 'India', 'Pakistan', 'Australia', 'England', 'Firmness', 'Competition', 'National Pride', 'Discipline', 'Patience', 'ICC Cricket World Cup', 'Sachin Tendulkar', 'Virat Kohli', 'Indian Premier League', 'Economy', 'Inspiration', 'Reliance', 'Development', 'Sportsmanship']
+
+After remove: ['cricket', 'Popularity', 'Influence', 'India', 'Pakistan', 'Australia', 'England', 'Firmness', 'Competition', 'National Pride', 'Discipline', 'Patience', 'ICC Cricket World Cup', 'Sachin Tendulkar', 'Virat Kohli', 'Indian Premier League', 'Economy', 'Inspiration', 'Development', 'Sportsmanship']
+
+Slice (2 to 6): ['Influence', 'India', 'Pakistan', 'Australia', 'England']
+
+After insert: ['cricket', 'Entertainment', 'Popularity', 'Influence', 'India', 'Pakistan', 'Australia', 'England', 'Firmness', 'Competition', 'National Pride', 'Discipline', 'Patience', 'ICC Cricket World Cup', 'Sachin Tendulkar', 'Virat Kohli', 'Indian Premier League', 'Economy', 'Inspiration', 'Development', 'Sportsmanship']
+
+Index of India: 4
+
+Copied list: ['cricket', 'Entertainment', 'Popularity', 'Influence', 'India', 'Pakistan', 'Australia', 'England', 'Firmness', 'Competition', 'National Pride', 'Discipline', 'Patience', 'ICC Cricket World Cup', 'Sachin Tendulkar', 'Virat Kohli', 'Indian Premier League', 'Economy', 'Inspiration', 'Development', 'Sportsmanship']
+
+After extend: ['cricket', 'Entertainment', 'Popularity', 'Influence', 'India', 'Pakistan', 'Australia', 'England', 'Firmness', 'Competition', 'National Pride', 'Discipline', 'Patience', 'ICC Cricket World Cup', 'Sachin Tendulkar', 'Virat Kohli', 'Indian Premier League', 'Economy', 'Inspiration', 'Development', 'Sportsmanship', 'Leadership', 'Teamwork']
+
+After clear: []

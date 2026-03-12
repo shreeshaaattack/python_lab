@@ -1,0 +1,14 @@
+AIM :
+Write a Program to implement control flow statements and looping statements in python.
+
+Algorithm
+Start the program.
+Input a number n from the user.
+Use an if–elif–else control statement to check:
+If n is positive
+If n is negative
+Otherwise it is zero
+Use a for loop to print numbers from 1 to n.
+Use a while loop to calculate the sum of numbers from 1 to n.
+Display the sum.
+Stop the program.

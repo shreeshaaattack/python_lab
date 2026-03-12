@@ -1,0 +1,12 @@
+PROBLEM STATEMENT :
+Demonstrate various Data Types and Operators in Python.
+
+ALGORITHM:
+STEP 1 : Start the program.
+STEP 2 : Declare two integer variables x and y and assign them numeric values.
+STEP 3 : Display results of arithmetic expressions using addition, subtraction, multiplication, and power operators.
+STEP 4 : Use comparison operators to check mathematical identities and print whether they are true or false.
+STEP 5 : Perform bitwise operations such as AND (&), OR (|), and XOR (^) on the variables.
+STEP 6 : Demonstrate how addition and subtraction can also be represented using bitwise operators.
+STEP 7 : Print the results of all expressions using the print() function.
+STEP 8 : Stop the program.

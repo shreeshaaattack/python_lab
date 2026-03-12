@@ -1,0 +1,28 @@
+Source Code 
+
+def create_student(id, name, marks):
+    return (id, name, marks)
+
+def calculate_total(student):
+    return sum(student[2])
+
+def calculate_percentage(student):
+    total_marks = calculate_total(student)
+    max_total = len(student[2]) * 100  # Assuming each subject is out of 100
+    return (total_marks / max_total) * 100
+
+def display_marks_card(student):
+    print("----- Student Marks Card -----")
+    print(f"ID        : {student[0]}")
+    print(f"Name      : {student[1]}")
+    print(f"Marks     : {student[2]}")
+    print(f"Total     : {calculate_total(student)}")
+    print(f"Percentage: {calculate_percentage(student):.2f}%")
+  
+if __name__ == "__main__":
+    # Create student records
+    student1 = create_student(101, "Alice", (85, 92, 78, 90, 75, 80))
+    student2 = create_student(102, "Bob", (75, 88, 90, 85, 75, 70))
+
+    display_marks_card(student1)
+    display_marks_card(student2)

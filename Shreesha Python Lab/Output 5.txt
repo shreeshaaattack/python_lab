@@ -1,0 +1,14 @@
+Output
+  ----- Student Marks Card -----
+ID        : 101
+Name      : Alice
+Marks     : (85, 92, 78, 90, 75, 80)
+Total     : 500
+Percentage: 83.33%
+
+----- Student Marks Card -----
+ID        : 102
+Name      : Bob
+Marks     : (75, 88, 90, 85, 75, 70)
+Total     : 483
+Percentage: 80.50%

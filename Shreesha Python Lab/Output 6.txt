@@ -1,0 +1,25 @@
+Output :
+
+--- Phone Book Menu ---
+1. Add Contact
+2. Update Contact
+3. Delete Contact
+4. Search Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 1
+Enter name: Alice
+Enter phone number: 9876543210
+Contact added successfully!
+
+--- Phone Book Menu ---
+1. Add Contact
+2. Update Contact
+3. Delete Contact
+4. Search Contact
+5. Display Contacts
+6. Exit
+Enter your choice: 5
+
+Phone Book Contacts:
+Alice : 9876543210

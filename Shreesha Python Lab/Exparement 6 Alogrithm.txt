@@ -1,0 +1,23 @@
+Aim :
+Write a program to demonstrate Dictionary & related functions in python
+
+ALGORITHM :
+STEP 1 : Start the program.
+STEP 2 : Create an empty dictionary called phonebook.
+STEP 3 : Display the phonebook menu with different options.
+STEP 4 : Ask the user to enter their choice.
+STEP 5 : Use match-case to check the user’s choice.
+STEP 6 : If choice = 1, input name and phone number and add them to the dictionary.
+STEP 7 : If choice = 2, input name and update the phone number if the contact exists.
+STEP 8 : If choice = 3, input name and delete the contact from the dictionary if it exists.
+STEP 9 : If choice = 4, input name and search for the contact and display the phone number.
+STEP 10 : If choice = 5, display all contacts in the phonebook.
+STEP 11 : If choice = 6, display all names using keys().
+STEP 12 : If choice = 7, display all phone numbers using values().
+STEP 13 : If choice = 8, display all entries using items().
+STEP 14 : If choice = 9, display the total number of contacts using len().
+STEP 15 : If choice = 10, create a copy of the phonebook using copy() and display it.
+STEP 16 : If choice = 11, clear all contacts using clear().
+STEP 17 : If choice = 12, exit the program.
+STEP 18 : Repeat steps 3–17 until the user selects exit.
+STEP 19 : Stop the program.

@@ -1,0 +1,19 @@
+Aim :
+Write a program to demonstrate tuple & related functions in python.
+
+ALGORITHM :
+STEP 1: Start the program.
+STEP 2: Ask the user to enter the number of elements for the tuple.
+STEP 3: Create an empty list and read elements from the user using a loop.
+STEP 4: Convert the list into a tuple.
+STEP 5: Display the created tuple.
+STEP 6: Display the length of the tuple using the len() function.
+STEP 7: Access and display the first element of the tuple using indexing.
+STEP 8: Access and display the last element of the tuple using negative indexing.
+STEP 9: Display a slice of the tuple using slicing operation.
+STEP 10: Count the number of occurrences of a specific element in the tuple using the count() function.
+STEP 11: Find the index position of a particular element using the index() function.
+STEP 12: Find the maximum element in the tuple using max().
+STEP 13: Find the minimum element in the tuple using min().
+STEP 14: Display the sorted tuple elements using the sorted() function.
+STEP 15: Stop the program.

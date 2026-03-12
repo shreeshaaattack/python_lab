@@ -1,0 +1,33 @@
+Output
+    
+ Player 1
+Strike Rate: 296.0
+Economy Rate: 14.5
+Batting: Excellent Batter
+Bowling: Average Bowler
+Fielding: Outstanding Fielder
+Overall: Needs Improvement
+
+Player 2
+Strike Rate: 288.71
+Economy Rate: 10.67
+Batting: Excellent Batter
+Bowling: Average Bowler
+Fielding: Outstanding Fielder
+Overall: Needs Improvement
+
+Player 3
+Strike Rate: 264.41
+Economy Rate: 7.25
+Batting: Excellent Batter
+Bowling: Good Bowler
+Fielding: Outstanding Fielder
+Overall: Supporting All-Rounder
+
+Player 4
+Strike Rate: 285.37
+Economy Rate: 10.33
+Batting: Excellent Batter
+Bowling: Average Bowler
+Fielding: Outstanding Fielder
+Overall: Needs Improvement

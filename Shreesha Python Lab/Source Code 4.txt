@@ -1,0 +1,35 @@
+Source Code
+Keywords = [
+
+"cricket", "Popularity", "Influence", "India", "Pakistan",
+    "Australia", "England", "Firmness", "Competition",
+    "National Pride", "Discipline", "Patience",
+    "ICC Cricket World Cup", "Sachin Tendulkar", "Virat Kohli",
+    "Indian Premier League", "Economy", "Inspiration",
+    "Reliance", "Development"
+]
+
+print("First Keyword:", Keywords[0])
+print("Last Keyword:", Keywords[-1])
+
+Keywords.append("Sportsmanship")
+print("After append:", Keywords)
+
+Keywords.remove("Reliance")
+print("After remove:", Keywords)
+
+print("Slice (2 to 6):", Keywords[2:7])
+
+Keywords.insert(1, "Entertainment")
+print("After insert:", Keywords)
+
+print("Index of India:", Keywords.index("India"))
+
+CopyList = Keywords.copy()
+print("Copied list:", CopyList)
+
+Keywords.extend (["Leadership", "Teamwork"])
+print("After extend:", Keywords)
+
+Keywords.clear()
+print("After clear:", Keywords)

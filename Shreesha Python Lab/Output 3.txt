@@ -1,0 +1,26 @@
+Output
+Enter a string: hello world
+Original String: hello world
+Length of string: 11
+Uppercase: HELLO WORLD
+Lowercase: hello world
+Title Case: Hello World
+Swap Case: HELLO WORLD
+First character: h
+Last character: d
+First 3 characters: hel
+Last 3 characters: rld
+Reversed string: dlrow olleh
+Enter another string: python
+Concatenated string: hello world python
+Enter a word to search: world
+Position of word: 6
+Enter word to replace: world
+Enter new word: python
+After replacement: hello python
+Split string: ['hello', 'world']
+Is Alphabetic: False
+Is Numeric: False
+Is Alphanumeric: False
+Is Lowercase: True
+Is Uppercase: False
