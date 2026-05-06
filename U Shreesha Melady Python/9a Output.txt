@@ -1,0 +1,21 @@
+Output: 
+
+Student Academic Data:
+   USN Student_Name  Python_Marks  DBMS_Marks  Total_Marks  Percentage Result_Status  Bonus_Total
+0  101        Ranga            85          80          165        82.5          Pass          170
+1  102      Vaibhav            78          82          160        80.0          Pass          165
+2  103    Prabhakar            92          89          181        90.5          Pass          186
+3  104       Anusha            65          70          135        67.5          Pass          140
+4  105    Yashwanth            88          85          173        86.5          Pass          178
+5  106          Sai            74          76          150        75.0          Pass          155
+6  107        Aditi            90          91          181        90.5          Pass          186
+7  108        Pooja            82          84          166        83.0          Pass          171
+8  109       Vikram            95          96          191        95.5          Pass          196
+9  110         Neha            70          75          145        72.5          Pass          150
+
+Class Average Data:
+Python_Marks     81.90
+DBMS_Marks       82.80
+Total_Marks     164.70
+Percentage       82.35
+dtype: float64

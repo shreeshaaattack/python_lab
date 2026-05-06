@@ -1,0 +1,13 @@
+Output:
+
+Honda car starts with key
+Tesla car starts with key
+Tesla is charging
+Yamaha bike starts with kick
+Volvo truck starts with button
+Tracking location
+Playing music
+Smart car has GPS and Music System
+Toyota car starts with key
+Tracking location
+Toyota has hybrid features

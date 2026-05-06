@@ -1,0 +1,51 @@
+OUTPUT
+
+Dataset:
+   RollNo   Name   Age  Marks
+0      1   Arun   20     85
+1      2   Bina   21     90
+2      3   Charan 19     78
+3      4   Divya  20     88
+4      5   Eshan  22     92
+
+
+Dataset Info:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 5 entries, 0 to 4
+Data columns (total 4 columns):
+ #   Column   Non-Null Count  Dtype
+---  ------   --------------  -----
+ 0   RollNo   5 non-null      int64
+ 1   Name     5 non-null      object
+ 2   Age      5 non-null      int64
+ 3   Marks    5 non-null      int64
+dtypes: int64(3), object(1)
+memory usage: 288.0+ bytes
+
+
+ First 5 rows
+   RollNo   Name   Age  Marks
+0      1   Arun   20     85
+1      2   Bina   21     90
+2      3   Charan 19     78
+3      4   Divya  20     88
+4      5   Eshan  22     92
+
+
+ Missing values
+RollNo    0
+Name      0
+Age       0
+Marks     0
+dtype: int64
+
+Statistical Summary:
+        RollNo        Age      Marks
+count   5.000000   5.000000   5.000000
+mean    3.000000  20.400000  86.600000
+std     1.581139   1.140175   5.128353
+min     1.000000  19.000000  78.000000
+25%     2.000000  20.000000  85.000000
+50%     3.000000  20.000000  88.000000
+75%     4.000000  21.000000  90.000000
+max     5.000000  22.000000  92.000000

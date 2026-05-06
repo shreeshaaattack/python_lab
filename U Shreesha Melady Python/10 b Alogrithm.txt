@@ -1,0 +1,43 @@
+1. Start
+
+2. Import required libraries (pandas, matplotlib, seaborn)
+
+3. Load dataset from CSV file into DataFrame
+
+4. Select required columns for visualization
+
+5. Create a line plot for a selected column
+
+6. Display the line plot
+
+7. Create a bar plot for a selected column
+
+8. Display the bar plot
+
+9. Create a histogram for a selected column
+
+10. Display the histogram
+
+11. Create a scatter plot between two columns
+
+12. Display the scatter plot
+
+13. Create a box plot for the dataset
+
+14. Display the box plot
+
+15. Create a violin plot for the dataset
+
+16. Display the violin plot
+
+17. Compute correlation matrix of numerical columns
+
+18. Create a heatmap to visualize correlation
+
+19. Display the heatmap
+
+20. Create a pair plot for all numerical columns
+
+21. Display the pair plot
+
+22. End

@@ -1,0 +1,19 @@
+
+1. Start
+2. Import required libraries (pandas, numpy, matplotlib, seaborn)
+3. Read the dataset from a CSV file into a DataFrame
+4. Display the first few rows of the dataset
+5. Display dataset information (data types, non-null values)
+6. Generate summary statistics of numerical columns
+7. Check for missing values in each column
+8. Replace missing numerical values with column mean
+9. Replace missing categorical values with mode
+10. Remove duplicate rows from the dataset
+11. Standardize column names (remove spaces, convert to lowercase)
+12. Compute correlation matrix for numerical data
+13. Plot heatmap to visualize correlations
+14. Plot histograms for numerical features
+15. Plot boxplot to detect outliers
+16. Generate pairplot for feature relationships
+17. Display final shape of cleaned dataset
+18. End

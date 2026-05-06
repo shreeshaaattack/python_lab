@@ -1,0 +1,13 @@
+Output:
+
+match(): Hello
+search(): Python
+findall(): ['12', '45', '78']
+finditer():
+20 at position 5
+30 at position 9
+40 at position 13
+sub(): My number is *****
+split(): ['Split', 'this', 'sentence', 'into', 'words']
+enter a date (dd/mm/yyyy):19/05/2020
+vaild date format
